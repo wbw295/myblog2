@@ -1,0 +1,38 @@
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# Dependency directories #
+##########################
+node_modules/
+vendor/
+
+# Build directories #
+#####################
+public/
+resources/_gen/
+
+# Temporary files #
+###################
+*.swp
+*.swo
+*.bak
+
+# IDE and editor files #
+########################
+.idea/
+.vscode/
+*.iml
+
+# Environment variables #
+#########################
+.env
+
+# Log files #
+#############
+*.log
+
+# Hugo cache #
+##############
+resources/_gen/
